@@ -1,0 +1,7 @@
+{
+  "name": "moneroblock-startos",
+  "private": true,
+  "dependencies": {
+    "@start9labs/start-sdk": "4.0.0"
+  }
+}

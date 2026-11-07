@@ -1,0 +1,2 @@
+# Preserve unified-diff context exactly; its spaces and tabs are patch syntax.
+*.patch -whitespace

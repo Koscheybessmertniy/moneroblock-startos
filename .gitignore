@@ -1,0 +1,13 @@
+node_modules/
+javascript/
+ncc-cache/
+docker-images/
+*.s9pk
+*.squashfs
+*.oci
+.startos/
+*.key.pem
+.env
+.env.*
+.DS_Store
+.vscode/
